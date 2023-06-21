@@ -1,8 +1,8 @@
 window.langEN = {
-  hero_text: 'Working with us online',
-  hero_span: 'Focus on your patients without the extra paperwork. Check credentialing status on our new Provider Portal.',
+  hero_text: 'Helping you be',
+  hero_span: 'a healthier you',
   learnmore: 'Learn more',
-  getstarted: 'Explore Medicare plans',
+  getstarted: 'Get started',
   contactus: 'Contact us',
   welcomeBack: 'Welcome back',
   hello: 'Hi, ',
