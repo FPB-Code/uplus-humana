@@ -11,7 +11,7 @@
         <img
           v-on:click="goHomePage"
           class="logo"
-          :src="'./img/u+-logo.svg'"
+          :src="'https://www.humana.com/dist/hcom/static/icons/humana-logo.svg'"
           alt="U+"
         />
       </a>
