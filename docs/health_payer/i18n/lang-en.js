@@ -1,5 +1,5 @@
 window.langEN = {
-  hero_text: 'Helping you be',
+  hero_text: 'Working with us online',
   hero_span: 'a healthier you',
   learnmore: 'Learn more',
   getstarted: 'Get started',
@@ -9,7 +9,7 @@ window.langEN = {
   forgotPassword: 'Forgot username or password?',
   notEnrolled: 'Not enrolled? Sign up',
   secondary_heading: "Protect your future with U+ Medical Advantage",
-  primary_heading: "Discover how U+Health can help you be a healthier you",
+  primary_heading: "Discover how Humana can help you be a healthier you",
   primary1_title: 'Learn about our active life discount',
   primary1_msg: 'No matter how you like to manage your money, we ensure you’ll have all the tools you need.',
   primary2_title: 'When you’re here, we’re here for you',

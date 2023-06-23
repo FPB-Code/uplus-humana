@@ -1,16 +1,16 @@
 :root {
-  --brandColor: #0C8487;
-	--interactiveColor: #0C8487;
+  --brandColor: #5c9a1b;
+	--interactiveColor: #5c9a1b;
 }
 .color-brand {
   color: var(--brandColor);
 }
 /* Home page */
 main .hero-wrap .hero-image {
-	background: url('../img/hero-1.svg') 100% 100% / contain no-repeat;
+	background: url('../img/HumanaBackground.jpeg') 100% 100% / contain no-repeat;
 }
 main .hero-wrap .hero-splash {
-	background: url('../img/Hero.webp') 100% 100% / contain no-repeat;
+	background: url('about:blank') 100% 100% / contain no-repeat;
 }
 .ribbon > div {
   background: url('../img/ribbon.svg') 0 0 / cover no-repeat;

@@ -1,5 +1,5 @@
 window.langEN = {
-  hero_text: 'Verify eligibility,',
+  hero_text: 'Credentialing,',
   hero_span: 'and more.',
   learnmore: 'Learn more',
   getstarted: 'Get started',
@@ -9,7 +9,7 @@ window.langEN = {
   forgotPassword: 'Forgot username or password?',
   notEnrolled: 'Not enrolled? Sign up',
   secondary_heading: "Learn about patient programs for healthier living",
-  primary_heading: "Discover how U+Health can help you focus on care",
+  primary_heading: "Discover how Humana can help you focus on care",
   primary1_title: 'Stay updated with our mobile app',
   primary1_msg: "Staying on top of patient care can be a challenge, but the U+Health app can help.",
   primary2_title: 'Learn about Active lifestyle programs',
