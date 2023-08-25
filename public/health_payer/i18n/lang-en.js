@@ -1,5 +1,5 @@
 window.langEN = {
-  hero_text: 'Working with us online',
+  hero_text: 'Working towards',
   hero_span: 'a healthier you',
   learnmore: 'Learn more',
   getstarted: 'Get started',
