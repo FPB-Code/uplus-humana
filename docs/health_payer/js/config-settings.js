@@ -318,7 +318,7 @@ window.settings = {
       ],
       accountpicker: [
         {
-          title: "U+ Medical HMO",
+          title: "Gold Plus HMO",
           img: "img/account-picker1.jpg",
           details: [
             {
@@ -335,7 +335,7 @@ window.settings = {
             }]
         },
         {
-          title: "U+ Dental",
+          title: "Complete Dental",
           img: "img/account-picker1.jpg",
           details: [
             {
@@ -349,22 +349,6 @@ window.settings = {
             {
               label: "Network",
               value: "HMO",
-            }]
-        },{
-          title: "U+ Vision",
-          img: "img/account-picker1.jpg",
-          details: [
-            {
-              label: "Plan",
-              value: "Premium",
-            },
-            {
-              label: "Member ID",
-              value: "6778-454500",
-            },
-            {
-              label: "Network",
-              value: "EyeMed",
             }]
         },
       ],
@@ -429,7 +413,7 @@ window.settings = {
       ],
       accountpicker: [
         {
-          title: "U+ Medical HMO",
+          title: "Gold Plus HMO",
           img: "img/account-picker1.jpg",
           details: [
             {
@@ -446,7 +430,7 @@ window.settings = {
             }]
         },
         {
-          title: "U+ Dental",
+          title: "Dental",
           img: "img/account-picker1.jpg",
           details: [
             {
